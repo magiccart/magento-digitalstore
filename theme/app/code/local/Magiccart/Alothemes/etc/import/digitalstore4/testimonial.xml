@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<root>
+  <testimonial>
+    <item>
+      <name><![CDATA[Henrry Ford]]></name>
+      <text><![CDATA[Contrary to popular belief, Lorem  is not simply random text. It has roots iapiece of classical Latin literature making i years old.]]></text>
+      <image><![CDATA[magiccart/testimonial/V3_10.jpg]]></image>
+      <company><![CDATA[Creative Designer]]></company>
+      <email><![CDATA[]]></email>
+      <website><![CDATA[alothemes.com]]></website>
+      <rating_summary><![CDATA[3]]></rating_summary>
+      <position><![CDATA[0]]></position>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <name><![CDATA[Creative AloThemes]]></name>
+      <text><![CDATA[Contrary to popular belief, Lorem  is not simply random text. It has roots iapiece of classical Latin literature making i years old.]]></text>
+      <image><![CDATA[magiccart/testimonial/V1_3.png]]></image>
+      <company><![CDATA[Creative Designer]]></company>
+      <email><![CDATA[]]></email>
+      <website><![CDATA[alothemes.com]]></website>
+      <rating_summary><![CDATA[4]]></rating_summary>
+      <position><![CDATA[0]]></position>
+      <status><![CDATA[1]]></status>
+    </item>
+  </testimonial>
+</root>
